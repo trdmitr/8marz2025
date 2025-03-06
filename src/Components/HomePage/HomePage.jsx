@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 export const HomePage = () => {
     const imgUrl = "https://otvet.imgsmail.ru/download/d7cc5f2314a4493e4ba53a908aa989b4_i-213.gif"
     const videoUrl = 'https://trv-axtuba.ru/wp-content/uploads/2025/02/Pereval.mp4'
-    const videoName = 'Общий стих'
+    const videoName = ' '
     const imgAlt = "8 марта 2025"
 
     // const frontAudio = "https://trv-axtuba.ru/wp-content/uploads/2025/02/YUlya1.mp3";

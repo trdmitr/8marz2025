@@ -105,16 +105,17 @@ clip-path: polygon(50% 0%,59.40% 9.22%,73% 6%,77.32% 20.01%,91% 22%,87.16% 37.00
   
     .navLink23 {
       position: absolute;
-      /* clip-path: var(--foundation); */
-      padding: 0.5em 0.5em;
-      top: 86%;
+      clip-path: polygon(12.85% 4.79%, 32.19% 0.00%, 50.14% 23.20%, 71.18% 2.38%, 92.94% 5.61%, 100% 20%, 89.64% 72.82%, 65.71% 90.43%, 55.04% 100%, 41.43% 87.43%, 20.03% 65.05%, 0.00% 40.09%);
+      padding: 1.5em 1.5em;
+      top: 77%;
       left: 28%;
       line-height: 3.5em;
-      border: 6px outset  #f5efed8a;
+      border: 6px outset #f5efed8a;
       border-radius: 5em;
       text-decoration: none;
       font-weight: bold;
-      color: var(--buttonColor);
+      color: #eb8905;
+      background-color: #c91300c4;
       /* background-color: var(--buttonBack); */
       /* -webkit-clip-path:var(--clipPath); */
       /* clip-path: var(--clipPath); */
@@ -162,7 +163,7 @@ clip-path: polygon(50% 0%,59.40% 9.22%,73% 6%,77.32% 20.01%,91% 22%,87.16% 37.00
         
   .ticker__item {
     font-weight: bold;
-    color: red;
+    color: #f3b50c;
     width: 10em;
     padding-left: 13em;
     white-space: nowrap;
