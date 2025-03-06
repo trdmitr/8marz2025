@@ -161,8 +161,10 @@ clip-path: polygon(50% 0%,59.40% 9.22%,73% 6%,77.32% 20.01%,91% 22%,87.16% 37.00
   }
         
   .ticker__item {
+    font-weight: bold;
+    color: red;
     width: 10em;
-    padding-left: 7em;
+    padding-left: 13em;
     white-space: nowrap;
     -webkit-backface-visibility: hidden; /* Фикс возможного глюка с морганием в Сафари */
   }
