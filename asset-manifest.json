@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43200adb.css",
+    "main.js": "/static/js/main.e4596ea3.js",
+    "static/js/453.db1f9fc2.chunk.js": "/static/js/453.db1f9fc2.chunk.js",
+    "static/media/Peter_Ivanovitsch.ttf": "/static/media/Peter_Ivanovitsch.0a7e08732cb341bb723b.ttf",
+    "index.html": "/index.html",
+    "main.43200adb.css.map": "/static/css/main.43200adb.css.map",
+    "main.e4596ea3.js.map": "/static/js/main.e4596ea3.js.map",
+    "453.db1f9fc2.chunk.js.map": "/static/js/453.db1f9fc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43200adb.css",
+    "static/js/main.e4596ea3.js"
+  ]
+}
