@@ -10,7 +10,7 @@
       position: relative;
       margin: 0  5px  ;
       border-radius: 50%;
-      color: rgb(22, 21, 21);
+      color: rgb(179, 43, 43);
       background: currentColor;
       box-shadow: 50px 0 ,  -50px 0;
       animation: left 1s infinite ease-in-out;
@@ -63,7 +63,7 @@
 }
 .percentloader::before{
   content: '';
-  background: rgb(31, 29, 29);
+  background: rgb(209, 62, 18);
   position: absolute;
   left: 0;
   top: 0;
